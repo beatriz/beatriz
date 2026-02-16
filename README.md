@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm a Software Engineer @ [Kevel](https://github.com/adzerk/) who loves solving problems.
+
 <!--
 **beatriz/beatriz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
